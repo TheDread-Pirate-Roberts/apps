@@ -4,6 +4,7 @@
 
 ```
 * unzip ka
+* move unzipped app to Applications
 * give ka accessibility permissions
 ```
 ```
