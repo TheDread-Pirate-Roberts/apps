@@ -5,6 +5,7 @@
 ```
 * unzip ka
 * move unzipped app to Applications
+* give Script Editor accessibility permissions (Applicatins -> Utilities -> Script Editor)
 * give ka accessibility permissions
 ```
 ```
